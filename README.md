@@ -4,9 +4,9 @@ A business analysis project that turns a Sales Manager's request into two intera
 
 **Tools:** SQL Server (AdventureWorksDW2019), Power Query, Power BI, DAX
 
-![Sales Overview](images/sales_overview.png)
+![Sales Overview](overview/sales_ovr.png)
 
-![Customer Details](images/customer_details.png)
+![Customer Details](overview/customers.png)
 
 ## Business request
 
@@ -20,7 +20,7 @@ The Sales Manager wanted to move from static reports to visual dashboards showin
 - **KPIs and DAX:** defined sales, budget and variance measures.
 - **Dashboards:** built 2 interactive pages, with slicers by year, month, city, category and product.
 
-![Data model](images/data_model.png)
+![Data model](overview//schema%20model.png)
 
 ## Dashboards
 
