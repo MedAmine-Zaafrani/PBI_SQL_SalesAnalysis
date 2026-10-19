@@ -2,7 +2,7 @@
 
 A business analysis project that turns a Sales Manager's request into two interactive Power BI dashboards, tracking internet sales by customer, product and time, against budget.
 
-**Tools:** SQL Server (AdventureWorksDW2019), Power Query, Power BI, DAX
+**Tools:** SQL Server, Power Query, Power BI, DAX
 
 ![Sales Overview](overview/sales_ovr.png)
 
